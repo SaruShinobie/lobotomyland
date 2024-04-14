@@ -9,17 +9,17 @@ The mod list is now included in the readme file, scroll down for all mods runnin
 THIS LIST DOESNT YET INCLUDE *ALL* MODS, ONLY NEW ONES ADDED IN REV4
 
 ## SMALL/QOL:
-**Mod Sets** 
+`**Mod Sets**`
 - [Linked Here (Modrinth)](https://modrinth.com/mod/mod-sets)
 - Allows you to enable/disable mods in game without modifying the mods folder manually, though Minecraft obviously still needs to be restarted.
 - Will replace original mod menu mod installed.
 
-**Cycle Paintings**
+`**Cycle Paintings**`
 - [Linked Here (Modrinth)](https://modrinth.com/mod/cycle-paintings)
 - Easily cycle through placed paintings by right-clicking them with another painting in hand.
 - You no longer have to remove and place... and remove and place... and remove and place... and etc to get the paintings you want.
 
-**Where Is It?**
+`**Where Is It?**`
 - [Linked Here (Modrinth)](https://modrinth.com/mod/where-is-it)
 - Minecraft mod to locate items in nearby inventories. Press Y while hovering over an item in your inventory to search. Nearby containers with the item inside will be highlighted in green.
 - If you want to unbind the key for something else, you can still search with the `/whereis` command.
