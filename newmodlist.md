@@ -1,7 +1,14 @@
+# README
+The mod list is now included in the readme file, scroll down for all mods running on the server with links and descriptions.
+
+...
+*readme will be expanded soon*
+...
+
 # MODLIST:
 THIS LIST DOESNT YET INCLUDE *ALL* MODS, ONLY NEW ONES ADDED IN REV4
 
-### SMALL/QOL:
+## SMALL/QOL:
 **Mod Sets** 
 - [Linked Here (Modrinth)](https://modrinth.com/mod/mod-sets)
 - Allows you to enable/disable mods in game without modifying the mods folder manually, though Minecraft obviously still needs to be restarted.
@@ -78,7 +85,7 @@ THIS LIST DOESNT YET INCLUDE *ALL* MODS, ONLY NEW ONES ADDED IN REV4
 
 
 
-### MAJOR:
+## MAJOR:
 **AntiXray**
 - [Linked Here (Modrinth)](https://modrinth.com/mod/anti-xray)
 - Also pretty self explanatory.
